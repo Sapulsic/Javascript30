@@ -1,10 +1,9 @@
 # JavaScript30 - Day 4
 
 ### **Summary**
-Work-In-Progress
+Exercises dealing with Arrays.
 
-
-### **Achieved**
+### **Learned**
 
 
 * Using `console.table()` to show the Array in a Table Layout.
@@ -19,6 +18,7 @@ Work-In-Progress
 ```javascript
     const ordered = inventors.sort((a, b) => a.year > b.year ? 1 : -1);
 ```
+
 
 * Since `.querySelector` returns a NodeList, you have to convert the NodeList into an Array to use `.map`. Using `Array.from()` will convert the .querySelector into an array.
 

@@ -8,3 +8,10 @@ Work-In-Progress
 
 
 * Using `console.table()` to show the Array in a Table Layout.
+* Using a more efficient version of 
+
+> "name" + " " + "name" 
+
+by doing 
+
+> `${name} ${name}`

@@ -7,4 +7,5 @@
  * [Day 3](https://github.com/Sapulsic/Javascript30/tree/master/03%20-%20CSS%20Variables)
  * [Day 4](https://github.com/Sapulsic/Javascript30/tree/master/04%20-%20Array%20Cardio%20Day%201)
  * [Day 5](https://github.com/Sapulsic/Javascript30/tree/master/05%20-%20Flex%20Panel%20Gallery)
+ * [Day 6](#)
 

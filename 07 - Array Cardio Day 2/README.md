@@ -1,7 +1,7 @@
 # JavaScript30 - Day 7
 
 ### **Summary**
-Work-In-Progress
+Coding Exercises using Arrays.
 
 ### **Learned**
 
@@ -10,3 +10,5 @@ Work-In-Progress
 ``javascript
     console.log({isAdult});
 ``
+
+* We use `Array.prototype.some()` if at least one item in the array meets what it is you are looking for.

@@ -7,9 +7,9 @@ Coding Exercises using Arrays Part 2.
 
 * When using console.log to view if the function was a success, you can use {} to show the name of the variable as well in the console.
 
-``javascript
+```javascript
     console.log({isAdult});
-``
+```
 
 * We use `Array.some()` if at least one item in the array meets what it is you are looking for.
 

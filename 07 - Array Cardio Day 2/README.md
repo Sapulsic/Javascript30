@@ -12,3 +12,7 @@ Coding Exercises using Arrays.
 ``
 
 * We use `Array.prototype.some()` if at least one item in the array meets what it is you are looking for.
+
+* Similar to .some(), we use `Array.prototype.every()` to check if all the items in the array meets what we are looking for.
+
+* Similar to .filter(), we use `Array.prototype.find() to not return the subset of an array but return the first item it finds.

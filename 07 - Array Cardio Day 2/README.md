@@ -13,8 +13,8 @@ Coding Exercises using Arrays Part 2.
 
 * We use `Array.some()` if at least one item in the array meets what it is you are looking for.
 
-* Similar to .some(), we use `Array.every()` to check if all the items in the array meets what we are looking for.
+* Similar to `.some()`, we use `Array.every()` to check if all the items in the array meets what we are looking for.
 
-* Similar to .filter(), we use `Array.find()` to not return the subset of an array but return the first item it finds.
+* Similar to `.filter()`, we use `Array.find()` to not return the subset of an array but return the first item it finds.
 
-* Learned about .slice(), need to look up more information on method.
+* Learned about `.slice()`, need to look up more information on method.

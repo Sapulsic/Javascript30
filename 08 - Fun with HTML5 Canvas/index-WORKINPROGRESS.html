@@ -23,6 +23,16 @@ let lastY = 0;
 function draw(e) {
   // This will stop the function from running when the mouse is out
   if (!isDrawing) return;
+  ctx.beginPath();
+  // starting from
+  ctx.moveTo(lastX, lastY);
+  // going to
+  ctx.lineTo(e.offsetX, e.offsetY);
+  ctx.stroke();
+
+  // Destructuring an Array;
+  [lastX, lastY] = [e.offsetX, e.offsetY];
+
   console.log(e);
 }
 

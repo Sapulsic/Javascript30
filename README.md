@@ -9,3 +9,4 @@
  * [Day 5](https://github.com/Sapulsic/Javascript30/tree/master/05%20-%20Flex%20Panel%20Gallery)
  * [Day 6](https://github.com/Sapulsic/Javascript30/tree/master/06%20-%20Type%20Ahead)
  * [Day 7](https://github.com/Sapulsic/Javascript30/tree/master/07%20-%20Array%20Cardio%20Day%202)
+ * [Day 8](#)

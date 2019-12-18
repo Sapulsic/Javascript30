@@ -97,13 +97,13 @@
 
 <script>
 
-  const checkBoxes = document.querySelectorAll('.inbox inbox[type="checkbox"]');
-  console.log(checkBoxes);
+  const checkBoxes = document.querySelectorAll('.inbox input[type="checkbox"]');
+  // console.log(checkBoxes);
 
   let lastChecked;
 
   function handleCheck(e) {
-    console.log(e);
+    // console.log(e);
     // Check if they had the shift key down
     // AND to check if they are checking it as well
     let inBetween = false;

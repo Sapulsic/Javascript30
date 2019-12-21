@@ -12,6 +12,6 @@
  * [Day 8](https://github.com/Sapulsic/Javascript30/tree/master/08%20-%20Fun%20with%20HTML5%20Canvas)
  * [Day 9](#)
  * [Day 10](https://github.com/Sapulsic/Javascript30/tree/master/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes)
- * [Day 11](#)
+ * [Day 11](https://github.com/Sapulsic/Javascript30/tree/master/11%20-%20Custom%20Video%20Player)
  * [Day 12](#)
  

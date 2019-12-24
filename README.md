@@ -15,4 +15,6 @@
  * [Day 11](https://github.com/Sapulsic/Javascript30/tree/master/11%20-%20Custom%20Video%20Player)
  * [Day 12](#)
  * [Day 13](#)
+ * [Day 14](#)
+ * [Day 15](#)
  

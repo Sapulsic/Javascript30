@@ -5,3 +5,4 @@ Customizing a Video player, adding a Play and Pause button, ability to Skip 10 s
 
 ### Learned
 
+`parseFloat(string)` converts the string to an actual Number. 

@@ -37,7 +37,9 @@ function skip() {
 }
 
 function handleRangeUpdate() {
-    console.log(this.value);
+    video[this.name] = this.value;
+    // console.log(this.name);
+    // console.log(this.value);
 }
 
 
@@ -51,4 +53,5 @@ toggle.addEventListener('click', togglePlay);
 
 skipButtons.forEach(button => button.addEventListener('click', skip));
 
-ranges.for(range => range.addEventListener('change', handleRangeUpdate));
+ranges.forEach(range => range.addEventListener('change', handleRangeUpdate));
+ranges.forEach(range => range.addEventListener('mousemove', handleRangeUpdate));
